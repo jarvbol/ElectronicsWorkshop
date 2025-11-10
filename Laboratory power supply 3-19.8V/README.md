@@ -13,7 +13,6 @@ A compact, fully assembled bench-mounted power supply designed for prototyping a
 - **Current Limit**: Up to 3.15 A
 - **Digital Monitoring**: Real-time voltage and current readout via OLED display (128x64, I2C)
 - **Control Interface**: Two potentiometers  for precise adjustment
-- **Feedback & Protection**: INA219 sensor for accurate current and bus voltage measurement
 - **Enclosure**: Custom-designed 3D-printed case (PLA), ergonomic layout, and aesthetic finish
 - **Regulation**: Based on LM2596-based DC-DC buck converter module with stable output
 
@@ -24,14 +23,12 @@ A compact, fully assembled bench-mounted power supply designed for prototyping a
 | Component | Purpose |
 |---------|--------|
 | LM2596 Buck Converter Module | Voltage regulation |
-| Arduino Nano | UI control, encoder input, display output |
-| INA219 Sensor | Current and voltage monitoring |
-| 128x64 OLED Display | Output visualization |
-| 2x Rotary Encoders | User input for voltage/current adjustment |
-| Tactile Buttons | Mode switching and confirmation |
+| Electronic voltmeter-ammeter | Current and voltage monitoring |
+| 2x Potentiometers | User input for voltage/current adjustment |
+| Tactile Buttons | Turning on the device |
+| Power Socket | Power socket for connecting a 12-24V power supply|
+| Terminals of two connectors | Terminals of two connectors for connecting crocodile clips |
 | 3D-Printed Case | Mechanical housing and protection |
-
-> All components are off-the-shelf or commonly available in hobbyist electronics stores.
 
 ---
 
