@@ -43,7 +43,6 @@ A compact, fully assembled bench-mounted power supply designed for prototyping a
 
 | ![Front view](./photo/1.jpg) | ![View from back](./photo/2.jpg) | ![Working Demo](./photo/3.jpg) |
 |:---:|:---:|:---:|
-| Internal wiring and component layout | OLED interface during operation | Powering a test load |
 
 ---
 
