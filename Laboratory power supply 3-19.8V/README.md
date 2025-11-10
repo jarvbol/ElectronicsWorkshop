@@ -35,7 +35,7 @@ A compact, fully assembled bench-mounted power supply designed for prototyping a
 ##  Design Files
 
 - **Schematic**: [`schematic.pdf`](./schematic.pdf) — Full circuit diagram
-- **3D Model**: Available for download on [Cults3D](https://www.cults3d.com/en/3d-model/various/power-supply-case) — Designed in Kompas 3D
+- **3D Model**: Available for download on [Cults3D]([https://cults3d.com/:3676030]) — Designed in Kompas 3D
 
 ---
 
