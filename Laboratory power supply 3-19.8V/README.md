@@ -50,18 +50,13 @@ A compact, fully assembled bench-mounted power supply designed for prototyping a
 
 1. The user adjusts the target voltage using the left rotary encoder.
 2. The Arduino sends a PWM or analog signal to the LM2596 module to set the output.
-3. The INA219 continuously measures actual voltage and current.
-4. Values are displayed on the OLED screen in real time.
-5. Over-current protection can be implemented in software (optional).
-
-The system operates in a closed loop, ensuring stable and safe power delivery.
+3. Values are displayed on the OLED screen in real time.
 
 ---
 
 ##  Usage Tips
 
 - Always double-check polarity before connecting a load.
-- Calibrate the INA219 sensor for accurate readings.
 - Use thick enough wires for high-current applications (>2A).
 - Ensure proper ventilation — the buck converter generates heat under load.
 
