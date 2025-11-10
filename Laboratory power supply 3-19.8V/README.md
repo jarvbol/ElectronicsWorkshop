@@ -35,14 +35,13 @@ A compact, fully assembled bench-mounted power supply designed for prototyping a
 ##  Design Files
 
 - **Schematic**: [`schematic.pdf`](./schematic.pdf) — Full circuit diagram
-- **PCB Layout**: [`pcb_layout.png`](./pcb_layout.png) — Internal wiring and connections
-- **3D Model**: Available for download on [Cults3D](https://www.cults3d.com/en/3d-model/various/power-supply-case) — Designed in Fusion 360
+- **3D Model**: Available for download on [Cults3D](https://www.cults3d.com/en/3d-model/various/power-supply-case) — Designed in Kompas 3D
 
 ---
 
 ##  Assembly Photos
 
-| ![Inside View](./photos/inside.jpg) | ![Display Close-up](./photos/display.jpg) | ![Working Demo](./photos/demo.jpg) |
+| ![Front view](./photo/1.jpg) | ![View from back](./photo/2.jpg) | ![Working Demo](./photo/3.jpg) |
 |:---:|:---:|:---:|
 | Internal wiring and component layout | OLED interface during operation | Powering a test load |
 
