@@ -41,7 +41,7 @@ A compact, fully assembled bench-mounted power supply designed for prototyping a
 
 ##  Assembly Photos
 
-| ![Front view](./photo/1.jpg) | ![View from back](./photo/2.jpg) | ![Working Demo](./photo/3.jpg) |
+| ![Front view](./photo/1.JPG) | ![View from back](./photo/2.JPG) | ![Working Demo](./photo/3.jpg) |
 |:---:|:---:|:---:|
 
 ---
