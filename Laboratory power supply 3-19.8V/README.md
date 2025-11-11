@@ -49,7 +49,7 @@ A compact, fully assembled bench-mounted power supply designed for prototyping a
 ##  How It Works
 
 1. The user adjusts the target voltage using the left rotary encoder.
-2. The Arduino sends a PWM or analog signal to the LM2596 module to set the output.
+2. The Arduino sends a PWM or analog signal to the XL4015 module to set the output.
 3. Values are displayed on the OLED screen in real time.
 
 ---
