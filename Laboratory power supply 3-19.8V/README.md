@@ -14,7 +14,7 @@ A compact, fully assembled bench-mounted power supply designed for prototyping a
 - **Digital Monitoring**: Real-time voltage and current readout via OLED display (128x64, I2C)
 - **Control Interface**: Two potentiometers  for precise adjustment
 - **Enclosure**: Custom-designed 3D-printed case (PLA), ergonomic layout, and aesthetic finish
-- **Regulation**: Based on LM2596-based DC-DC buck converter module with stable output
+- **Regulation**: Based on XL4015-based DC-DC buck converter module with stable output
 
 ---
 
@@ -22,7 +22,7 @@ A compact, fully assembled bench-mounted power supply designed for prototyping a
 
 | Component | Purpose |
 |---------|--------|
-| LM2596 Buck Converter Module | Voltage regulation |
+| XL4015 Buck Converter Module | Voltage regulation |
 | Electronic voltmeter-ammeter | Current and voltage monitoring |
 | 2x Potentiometers | User input for voltage/current adjustment |
 | Tactile Buttons | Turning on the device |
@@ -34,7 +34,7 @@ A compact, fully assembled bench-mounted power supply designed for prototyping a
 
 ##  Design Files
 
-- **Schematic**: [`schematic.pdf`](./schematic.pdf) — Full circuit diagram
+- **Schematic**: [`Laboratory power supply.pdf`](./photo/Laboratory power supply.pdf) — Full circuit diagram
 - **3D Model**: Available for download on [Cults3D]([https://cults3d.com/:3676030]) — Designed in Kompas 3D
 
 ---
