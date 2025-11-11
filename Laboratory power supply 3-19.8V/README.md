@@ -34,7 +34,7 @@ A compact, fully assembled bench-mounted power supply designed for prototyping a
 
 ##  Design Files
 
-- **Schematic**: [`Laboratory power supply.pdf`](./photo/Laboratory power supply.pdf) — Full circuit diagram
+- **Schematic**: [`Laboratory power supply.pdf`](./photo/Laboratory_power_supply.pdf) — Full circuit diagram
 - **3D Model**: Available for download on [Cults3D]([https://cults3d.com/:3676030]) — Designed in Kompas 3D
 
 ---
