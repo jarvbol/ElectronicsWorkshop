@@ -26,7 +26,7 @@ A compact, custom-built soldering station based on the popular **Hanlei T12** co
 - Designed a **ventilated rear panel** to prevent overheating of the controller board.
 - All components are securely mounted using standoffs and screws for durability.
 
-> With this design, priority is given. 
+> With this design, the priority is given to compactness and reliability. 
 
 ---
 
