@@ -38,7 +38,7 @@ A compact, custom-built soldering station based on the popular **Hanlei T12** co
 
 ##  Assembly Photos
 
-| ![Front Panel](./photo/1.jpg) | ![Back Panel](./photos/bottom.jpg) | ![Internal Layout](./photos/inside.jpg) |
+| ![Front Panel](./photo/1.jpg) | ![Back Panel](./photo/bottom.jpg) | ![Internal Layout](./photo/inside.jpg) |
 |:---:|:---:|:---:|
 | Power connector and display | Ventilated rear with rubber feet | Clean internal layout with secure mounting |
 
